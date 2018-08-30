@@ -1,0 +1,17 @@
+body
+{
+font-family: arial;
+background-color: rgb(185,179,175);
+}
+
+h1 {  
+font-family: "Courier New",monospace;
+color: rgb(255,255,255);
+background-color: MAROON;
+}
+
+img
+{
+max-width=100%;
+max-height=50%;	
+}
